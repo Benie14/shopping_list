@@ -21,10 +21,9 @@ A reactive, single-page Flutter application that allows users to manage a daily 
 
 ## Screenshots
 
-| Initial View                      | Item Checked / Bought                 | Deleting & Undo                     |
-| :---------------------------------| :-----------------------------------: | :---------------------------------: |
-| ![Initial View](image_7dbc9b.png) | ![Marked as Bought](image_7dc098.png) | ![Deleting Items](image_87a59d.png) |
-
+| Initial View                                             | Item Checked / Bought                                | Deleting & Undo                                    |
+| :------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: |
+| ![Initial View](Screenshot-Create%20and%20run%20App.png) | ![Marked as Bought](Screenshot-Type%20an%20item.png) | ![Deleting Items](Screenshot-List%20few%20tems.png)|
 ---
 
 ## Built With
