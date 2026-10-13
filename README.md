@@ -21,8 +21,8 @@ A reactive, single-page Flutter application that allows users to manage a daily 
 
 ## Screenshots
 
-| Initial View | Item Checked / Bought | Deleting & Undo |
-| :---: | :---: | :---: |
+| Initial View                      | Item Checked / Bought                 | Deleting & Undo                     |
+| :---------------------------------| :-----------------------------------: | :---------------------------------: |
 | ![Initial View](image_7dbc9b.png) | ![Marked as Bought](image_7dc098.png) | ![Deleting Items](image_87a59d.png) |
 
 ---
@@ -36,3 +36,39 @@ A reactive, single-page Flutter application that allows users to manage a daily 
 ---
 
 ## Project Structure
+lib/
+└── main.dart       # Main application entry point containing custom widgets & app state
+pubspec.yaml         # Dependencies and project configurations
+
+
+---
+
+## 💻 How to Run Locally
+
+### Prerequisites
+* [Flutter SDK](https://docs.flutter.dev/get-started/install) installed and configured.
+* Google Chrome (or any preferred web browser/emulator).
+
+### Steps
+1. **Clone or download this repository**:
+   ```bash
+   git clone <your-repository-url>
+
+    Navigate into the project directory:
+    Bash
+
+    cd shopping_list1
+
+    Get dependencies:
+    Bash
+
+    flutter pub get
+
+    Run the app:
+    Bash
+
+    flutter run -d chrome
+
+### Author
+
+    Niyokuri Berenice
